@@ -35,9 +35,13 @@ Some fluffier objectives include:
 * Ideally, you should open an issue first (https://github.com/sakuraapi/manual/issues) and commit against that issue
 
 ## Content
+### Tutorials
 * Tutorial 1: [My First API](tutorials/Tutorial-001.md)
 * Tutorial 2: [Adding a Service](tutorials/Tutorial-002.md)
-* Tutorial 3: [Adding a model](tutorials/Tutorial-003.md)
+* Tutorial 3: [Adding a model](tutorials/Tutorial-003.md) __Coming soon__
+* Tutorial 4: [Adding Users] __Coming soon__
+
+### More details
 * [Getting Started](Getting%20Started.md)
 * [Walk throguh the output of the CLI](Directory%20Structure.md)
 
